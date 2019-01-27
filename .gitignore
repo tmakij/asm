@@ -1,0 +1,5 @@
+build/
+dist/
+TestData/
+nbproject/private
+
